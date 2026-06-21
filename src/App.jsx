@@ -393,7 +393,7 @@ function Nav({ active }) {
       <nav className="navbar">
         <a href="#home" style={{ fontFamily: "'Space Grotesk', sans-serif", fontWeight: 800, fontSize: 22, textDecoration: "none" }}>
           <span style={{ color: G.cyan }}>K</span>
-          <span style={{ color: G.white }}>arthick</span>
+          <span style={{ color: G.white }}>arthick K</span>
           <span style={{ color: G.purple }}>.</span>
         </a>
 
